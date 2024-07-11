@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pabulblues
+- 👋 Hi, I’m @PahalPatel
 - 👀 I’m interested in Particle Physics and Machine Learning
 - 🌱 I’m currently learning Graph Neural Netwroks 
 - 📫 How to reach me - pahal198siya@gmail.com
