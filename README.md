@@ -1,5 +1,5 @@
-
-<!---
-pabulblues/pabulblues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  ⁠Hi there, Pahal here 👋
+-  ⁠🌱 I’m studying Physics at IIT Kanpur, India
+-  ⁠👯 I’m looking to collaborate on cool ML stuff in the field of Particle Phyics
+-  ⁠📫 How to reach me: [pahal198siya@gmail.com](mailto:pahal198siya@gmail.com)
+  
